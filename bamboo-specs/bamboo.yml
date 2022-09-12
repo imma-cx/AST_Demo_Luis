@@ -1,8 +1,8 @@
 version: 2
 plan:
-  project-key: BAMBOO
-  key: MPCX
-  name: Checkmarx Scan
+  project-key: PROJ
+  key: PLAN
+  name: My Plan
 stages:
 - Default Stage:
     jobs:
