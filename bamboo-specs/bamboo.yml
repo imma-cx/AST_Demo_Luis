@@ -1,6 +1,6 @@
 version: 2
 plan:
-  project-key: MPCX
+  project-key: Bamboo
   key: MPCX
   name: Checkmarx Scan
 stages:
