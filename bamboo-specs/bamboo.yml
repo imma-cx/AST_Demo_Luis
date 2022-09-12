@@ -1,8 +1,9 @@
 version: 2
 plan:
-  project-key: PROJ
+  project-key: BAM
   key: PLAN
   name: My Plan
+  
 stages:
 - Default Stage:
     jobs:
