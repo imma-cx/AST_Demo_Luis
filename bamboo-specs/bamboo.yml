@@ -1,7 +1,7 @@
 version: 2
 
 plan:
-  project-key: TES
+  project-key: Bamboo2CxONE
   key: RC
   name: Checkmarx ast-cli
 
